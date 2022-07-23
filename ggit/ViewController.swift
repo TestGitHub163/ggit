@@ -11,9 +11,13 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
+    
+    private func a() {
+        //iiii
+        // new feature code
+    }
 
 }
 
